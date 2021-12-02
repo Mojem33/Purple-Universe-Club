@@ -15,21 +15,4 @@ body{
     font-size: 20px;
       color:blueviolet;
   }
-footer {
-  margin-top: 50px;
-  background-color: #800080;
-  color: white;
-}
-#GrantMe {margin-left: 0px;
-  color: gold;
-  font-weight:bolder;
-  display: row;
-padding: 50px;
-text-align: left;
-list-style-type: none;
-}
-footer p {
-  text-align: left;
-  margin-right: 20px;
-  color: white;
-}
+
