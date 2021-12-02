@@ -1,0 +1,17 @@
+body{
+  font-family: serif;
+  background-color: aliceblue;
+  color:black;
+
+  header{
+  background-image: url(astroAll1.jpg);
+  background-size: 100%;
+  padding: 300px;
+  background-repeat: no-repeat;
+  color: gold;
+  font-family: Cursive;
+  font-size: 30px;
+  p{
+    font-size: 20px;
+      color:blueviolet;
+  }
