@@ -14,5 +14,18 @@ body{
   p{
     font-size: 20px;
       color:blueviolet;
+    background-color: silver;
   }
+    header .logo a {
+     background-image: url(logo_small.png);
+   background-size: 300px;
+   background-repeat: no-repeat;
+   display: inline-block;
+   text-indent: -9999999px;
+   height: 80px;
+   position: relative;
+   top: 20px;
+   width: 300px;
+   
+ }
 
