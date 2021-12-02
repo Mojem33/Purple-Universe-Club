@@ -1,0 +1,109 @@
+  @media only screen and (max-width: 600px)
+body{
+  font-family: serif;
+  background-color: aliceblue;
+  color:black;
+}
+#GreetMe {
+  background-color: purple;
+  font-size: 20px;
+  color: Navy;
+}
+
+#GoldenMe {
+  background-color: transparent;
+  color: gold;
+  text-align: left;
+  margin-left: 10px;
+  margin-right: 25px;
+  margin-top: auto;
+  margin-bottom: 15px;
+}
+#NameMe{
+background-color: transparent;
+  color: gold;
+  font-family: Cursive;
+  font-size: 30px;
+  margin-top: 0px;
+}
+header{
+  background-image: url(universe.png);
+  background-size: 100%;
+  padding: 300px;
+  background-repeat: no-repeat;
+  color: gold;
+  font-family: Cursive;
+  font-size: 30px;
+  
+}
+section{
+    background-color: #800080;
+  display: flex;
+  color: gold;
+  padding: 5px;
+  flex-direction: inline-block;
+  text-align: center;
+}
+div{
+  background-color: purple;
+ margin: auto;
+  width: 100px;
+  text-align: center;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  
+}
+  
+li{
+  display: inline-block;
+  margin: 0 30px 0 0;
+}
+#heading {
+  background-color: Gold;
+  color: #FF00FF;
+}
+
+footer {
+  margin-top: 50px;
+  background-color: #800080;
+  color: white;
+}
+#GrantMe {margin-left: 0px;
+  color: gold;
+  font-weight:bolder;
+  display: row;
+padding: 50px;
+text-align: left;
+list-style-type: none;
+}
+footer p {
+  text-align: left;
+  margin-right: 20px;
+  color: white;
+}
+
+#ColorMe {
+  background-color: purple;
+  color: Black;
+  font-family: Cursive;
+  font-size: 25px;
+  text-align: center;
+  
+  
+}
+ header .logo a {
+     background-image: url(logo_small.png);
+   background-size: 300px;
+   background-repeat: no-repeat;
+   display: inline-block;
+   text-indent: -9999999px;
+   height: 80px;
+   position: relative;
+   top: 20px;
+   width: 300px;
+   
+ }
+
