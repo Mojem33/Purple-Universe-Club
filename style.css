@@ -22,9 +22,6 @@ body{
 .dropdown{
   position: relative;
 .dropdown-Menu{
-  position:absolute;
-  left: 0;
-  top: calc(100% + .25rem);
    background: none;
   border: none;
   text-decoratione: none;
