@@ -12,7 +12,6 @@ body{
 .Groups{
   background: none;
   border: none;
-  text-decoratione: none;
   color: gold;
   font-family: serif;
   font-size: 20px;
@@ -22,7 +21,6 @@ body{
 .dropdown-Menu {
    background: none;
   border: none;
-  text-decoratione: none;
   color: gold;
   font-family: serif;
   font-size: 30px;
