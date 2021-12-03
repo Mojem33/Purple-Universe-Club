@@ -19,15 +19,12 @@ body{
   cursor: pointer;
   padding: 0;
 }
+.dropdown{
+  position: relative;
 .dropdown-Menu{
-   background: none;
-  border: none;
-  text-decoratione: none;
-  color: gold;
-  font-family: serif;
-  font-size: 10px;
-  cursor: pointer;
-  padding: 0;
+  position:absolute;
+  left: 0;
+  top: calc(100% + .25rem);
 }
 #GoldenMe {
   background-color: transparent;
