@@ -19,9 +19,7 @@ body{
   cursor: pointer;
   padding: 0;
 }
-.dropdown{
-  position: relative;
-.dropdown-Menu{
+.dropdown-Menu {
    background: none;
   border: none;
   text-decoratione: none;
