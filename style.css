@@ -56,7 +56,7 @@ header{
   
 }
 section{
-    background-color: #800080;
+    background-color: transparent;
   display: flex;
   color: gold;
   padding: 5px;
@@ -64,7 +64,7 @@ section{
   text-align: center;
 }
 div{
-  background-color: purple;
+  background-color: transparent;
  margin: auto;
   width: 100px;
   text-align: center;
