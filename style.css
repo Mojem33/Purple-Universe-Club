@@ -9,7 +9,16 @@ body{
   font-size: 20px;
   color: Navy;
 }
-
+.Groups{
+  background: none;
+  border: none;
+  text-decoratione: none;
+  color: gold;
+  font-family: serif;
+  font-size: 10px;
+  cursor: pointer;
+  padding: 0;
+}
 #GoldenMe {
   background-color: transparent;
   color: gold;
